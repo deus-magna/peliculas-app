@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>104263267424-sojqfrpu6u0bm9m43dbgsepdg0rjiu8r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.104263267424-sojqfrpu6u0bm9m43dbgsepdg0rjiu8r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD07wtliWu2XDaPC9PgKqbqLPizTMFK8vQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104263267424</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.peliculas</string>
+	<key>PROJECT_ID</key>
+	<string>peliculas-9c588</string>
+	<key>STORAGE_BUCKET</key>
+	<string>peliculas-9c588.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104263267424:ios:cfaea78e0ea8f66a547f05</string>
+	<key>DATABASE_URL</key>
+	<string>https://peliculas-9c588.firebaseio.com</string>
+</dict>
+</plist>
